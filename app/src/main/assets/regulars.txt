@@ -1,0 +1,383 @@
+[
+  {
+    "rule": "اين\\sيوجد\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "اين\\sيوجد\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "اين\\sيوجد\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "اين\\sيوجد\\s\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "ابي\\sمكان\\sمحل\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "ابي\\sمكان\\sمحل\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "ابي\\sمكان\\sمحل\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "ابي\\sمكان\\sمحل\\s\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "فين\\sممكن\\sالقى\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "فين\\sممكن\\sالقى\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "فين\\sممكن\\sالقى\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "فين\\sممكن\\sالقى\\s\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "وين\\sمكان\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sمكان\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sمكان\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sمكان\\s\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\s\\S+",
+    "intent": 1,
+    "slot": 1
+  },
+  {
+    "rule": "وين\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 1
+  },
+  {
+    "rule": "وين\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 1
+  },
+  {
+    "rule": "وين\\s\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 1
+  },
+  {
+    "rule": "ابي\\sمكان\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "ابي\\sمكان\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "ابي\\sمكان\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "ابي\\sمكان\\s\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "ابي\\sاكل\\sمن\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "وش\\sنوع\\s\\S+",
+    "intent": 9,
+    "slot": 2
+  },
+  {
+    "rule": "وش\\sهو\\sنوع\\s\\S+",
+    "intent": 9,
+    "slot": 3
+  },
+  {
+    "rule": "ابي\\s\\S+",
+    "intent": 1,
+    "slot": 1
+  },
+  {
+    "rule": "ابي\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 1
+  },
+  {
+    "rule": "ابي\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 1
+  },
+  {
+    "rule": "ابي\\s\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 1
+  },
+  {
+    "rule": "\\S+\\sفي\\sاي\\sدور",
+    "intent": 1,
+    "slot": 0
+  },
+  {
+    "rule": "\\S+\\s\\S+\\sفي\\sاي\\sدور",
+    "intent": 1,
+    "slot": 0
+  },
+  {
+    "rule": "\\S+\\s\\S+\\s\\S+\\sفي\\sاي\\sدور",
+    "intent": 1,
+    "slot": 0
+  },
+  {
+    "rule": "\\S+\\s\\S+\\s\\S+\\s\\S+\\sفي\\sاي\\sدور",
+    "intent": 1,
+    "slot": 0
+  },
+  {
+    "rule": "وين\\sاقدر\\sالقى\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "وين\\sاقدر\\sالقى\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "وين\\sاقدر\\sالقى\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "وين\\sاقدر\\sالقى\\s\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "وين\\sيوجد\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sيوجد\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sيوجد\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sيوجد\\s\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sمحل\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sمحل\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sمحل\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sمحل\\s\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sمطعم\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sمطعم\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sمطعم\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sمطعم\\s\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وش\\sفيه\\sعروض",
+    "intent": -2,
+    "slot": 2
+  },
+  {
+    "rule": "ايش\\sفيه\\sفعاليات",
+    "intent": -3,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sالقى\\s\\S+",
+    "intent": 1,
+    "slot": 2
+  },
+  {
+    "rule": "وين\\sيوجد\\sمحل\\s\\S+",
+    "intent": 1,
+    "slot": 3
+  },
+  {
+    "rule": "متى\\sيفتح\\sمحل\\s\\S+",
+    "intent": 2,
+    "slot": 3
+  },
+  {
+    "rule": "متى\\sيفتح\\sمحل\\s\\S+\\s\\S+",
+    "intent": 2,
+    "slot": 3
+  },
+  {
+    "rule": "متى\\sيفتح\\sمحل\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 2,
+    "slot": 3
+  },
+  {
+    "rule": "متى\\sيفتح\\sمحل\\s\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 2,
+    "slot": 3
+  },
+  {
+    "rule": "متى\\sيفتح\\sمكان\\s\\S+",
+    "intent": 2,
+    "slot": 3
+  },
+  {
+    "rule": "متى\\sيفتح\\sمكان\\s\\S+\\s\\S+",
+    "intent": 2,
+    "slot": 3
+  },
+  {
+    "rule": "متى\\sيفتح\\sمكان\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 2,
+    "slot": 3
+  },
+  {
+    "rule": "متى\\sيفتح\\sمكان\\s\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 2,
+    "slot": 3
+  },
+  {
+    "rule": "ايش\\sهي\\sفعالية\\s\\S+",
+    "intent": 3,
+    "slot": 3
+  },
+  {
+    "rule": "ما\\sهى\\sالمحلات\\s\\S+",
+    "intent": -1,
+    "slot": 3
+  },
+  {
+    "rule": "متى\\sفعالية\\s\\S+\\s\\S+",
+    "intent": 4,
+    "slot": 3
+  },
+  {
+    "rule": "متى\\sفعالية\\s\\S+",
+    "intent": 4,
+    "slot": 2
+  },
+  {
+    "rule": "كم\\sالخصومات\\s\\S+\\s\\S+",
+    "intent": 5,
+    "slot": 3
+  },
+  {
+    "rule": "متى\\sعروض\\s\\S+\\s\\S+",
+    "intent": 7,
+    "slot": 3
+  },
+  {
+    "rule": "خاطري\\sأكل\\s\\S+",
+    "intent": -4,
+    "slot": 2
+  },
+  {
+    "rule": "وش\\sفيه\\sمطاعم\\s\\S+",
+    "intent": -4,
+    "slot": 3
+  },
+    {
+      "rule": "وش\\sفيه\\sمحلات\\s\\S+",
+      "intent": -1,
+      "slot": 3
+    },
+
+  {
+    "rule": "\\S+",
+    "intent": 1,
+    "slot": 0
+  },
+  {
+    "rule": "\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 0
+  },
+  {
+    "rule": "\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 0
+  },
+  {
+    "rule": "\\S+\\s\\S+\\s\\S+\\s\\S+",
+    "intent": 1,
+    "slot": 0
+  }
+]
